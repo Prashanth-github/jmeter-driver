@@ -75,7 +75,7 @@
               </elementProp>
               <elementProp name="rootMetricsPrefix" elementType="Argument">
                 <stringProp name="Argument.name">rootMetricsPrefix</stringProp>
-                <stringProp name="Argument.value">jmeter-driver.</stringProp>
+                <stringProp name="Argument.value">jmeter-driver</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
               <elementProp name="summaryOnly" elementType="Argument">
